@@ -1,2 +1,2 @@
-# no_more_cat_here-bgmcave
-scp-cn 条目用cc音效
+# 一点存放小东西的地方
+遵循cc0、cc_by_3.0或者其他的什么协议...
